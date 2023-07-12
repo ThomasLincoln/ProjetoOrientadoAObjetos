@@ -10,3 +10,4 @@
 [x] Factory
 [x] FlyWeigth
 [x] Observer
+[x] Prototype
