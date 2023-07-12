@@ -5,3 +5,4 @@
 [x] Command
 [x] Decorator
 [x] Strategy
+[x] State
