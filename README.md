@@ -6,3 +6,7 @@
 [x] Decorator
 [x] Strategy
 [x] State
+[x] Proxy
+[x] Factory
+[x] FlyWeigth
+[x] Observer
