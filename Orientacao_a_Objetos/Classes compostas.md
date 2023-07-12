@@ -1,0 +1,1 @@
+São classes que tem como atributos instancias de outra classe

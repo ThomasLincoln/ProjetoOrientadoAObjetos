@@ -1,0 +1,1 @@
+É um método para construir o objeto
